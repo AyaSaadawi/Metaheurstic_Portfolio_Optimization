@@ -1,0 +1,7 @@
+data/
+venv/
+src/__pycache__/
+notebooks/all_optimizers_separate.gif
+notebooks/all_optimizers.gif
+notebooks/pso_animation.gif
+get-pip.py
