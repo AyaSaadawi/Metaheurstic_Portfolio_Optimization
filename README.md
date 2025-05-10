@@ -1,7 +1,7 @@
-# Portfolio Optimizer
+# Metaheuristic Portfolio Optimizer
 
 ## Overview
-**Portfolio Optimizer** is a user-friendly application for optimizing asset allocations using metaheuristic optimization algorithms. It aims to **maximize the Sharpe Ratio** of a portfolio using historical asset return data.
+**Metaheuristic Portfolio Optimizer** is a user-friendly application for optimizing asset allocations using metaheuristic optimization algorithms. It aims to **maximize the Sharpe Ratio** of a portfolio using historical asset return data.
 
 Supported optimization techniques:
 - Particle Swarm Optimization (PSO)
@@ -45,5 +45,5 @@ Ensure you install dependencies:
 
 ```bash
 pip install -r requirements.txt
-
+```
 Author: Aya Saadaoui
