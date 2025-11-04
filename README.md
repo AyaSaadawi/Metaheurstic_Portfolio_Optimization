@@ -41,9 +41,7 @@ streamlit run src/app.py
 ## Installation
 
 ### Requirements
-Ensure you install dependencies:
-
-```bash
 pip install -r requirements.txt
 ```
 Author: Aya Saadaoui
+
